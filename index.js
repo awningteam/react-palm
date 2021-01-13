@@ -1,8 +1,8 @@
 'use strict';
 
-Object.defineProperty(exports, '__esModule', {
-  value: true,
-});
+// Object.defineProperty(exports, '__esModule', {
+//   value: true,
+// });
 exports._run = _run;
 exports.fromPromise = fromPromise;
 exports.fromPromiseWithProgress = fromPromiseWithProgress;
